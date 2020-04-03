@@ -1,6 +1,6 @@
 .idea/
 *.pyc
-db.*
+db/db.db
 **migration
 venv/
 *.log
